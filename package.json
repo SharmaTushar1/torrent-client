@@ -1,0 +1,14 @@
+{
+  "name": "torrent-client",
+  "version": "1.0.0",
+  "description": "This is a torrent client. Torrenting is a file sharing method of distributing files across the internet between various peers/nodes/IPs and they communicate. The files are broken down with one peer having a certain part of the file that the other peer who is trying to access the file can request for.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tushar Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "bencode": "^0.9.0"
+  }
+}
